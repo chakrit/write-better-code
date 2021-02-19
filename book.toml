@@ -1,6 +1,11 @@
+# REF: https://rust-lang.github.io/mdBook/format/config.html
+
 [book]
 authors = ["Chakrit Wichian"]
 language = "en"
 multilingual = false
 src = "src"
 title = "Write Better Code"
+
+[rust]
+edition = "2018"
