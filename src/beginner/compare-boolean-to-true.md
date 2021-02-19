@@ -116,6 +116,19 @@ function render(content, options = {}) {
 }
 ```
 
+We can avoid Lodash entirely and use null-coalescing operator `??` if your language supports
+them:
+
+```typescript
+function render(content, options = {}) {
+  if (options['escape'] ?? false) {
+    content = htmlEscape(content)
+  }
+
+  // ...
+}
+```
+
 ## Similar:
 
 * (TODO) Comparing Expression to its value
