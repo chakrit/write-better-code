@@ -1,3 +1,7 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Introduction](./index.md)
+
+# Beginner
+
+- [Comparing Boolean Expression to True](./beginner/compare-boolean-to-true.md)
