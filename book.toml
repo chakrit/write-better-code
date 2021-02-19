@@ -9,3 +9,6 @@ title = "Write Better Code"
 
 [rust]
 edition = "2018"
+
+[output.html]
+default-theme="rust"
