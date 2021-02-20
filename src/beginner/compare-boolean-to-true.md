@@ -36,7 +36,7 @@ Boolean expressions eventually resolve to either `true` or `false`. Comparing th
 to `true` wastes computation and adds extra cognitive load without actually adding to the
 readability or explicitlness.
 
-## Transgression
+## Why Not?
 
 Sometimes you don't always have a binary `true` or `false` values. For example, you can
 have `undefined`, `null` or `nil` values in other languages. In which case, comparing them
