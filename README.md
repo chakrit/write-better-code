@@ -19,5 +19,6 @@ My personal notes on upcoming topics
    - Code Locality
    - SoC at microscopic levels
    - Degree of separation.
+7. Switching on `type` field.
 
 [0]: mailto:write-better-code@chakrit.net
