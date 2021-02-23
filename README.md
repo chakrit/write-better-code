@@ -14,5 +14,10 @@ My personal notes on upcoming topics
 3. Precondition/Postcondition method structuring
 4. Loop conversion techniques
 5. Boolean algebra
+6. Principles
+   - Happy Paths, Sad Paths
+   - Code Locality
+   - SoC at microscopic levels
+   - Degree of separation.
 
 [0]: mailto:write-better-code@chakrit.net
