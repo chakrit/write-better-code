@@ -1,4 +1,8 @@
 # Summary
 
 - [Introduction](./index.md)
-- [Comparing Boolean Expression to True](./compare-boolean-to-true.md)
+
+# Beginner
+
+- [Comparing Boolean Expression to True](./beginner/compare-boolean-to-true.md)
+- [If/Else Pyramids](./beginner/if-else-pyramid.md)
